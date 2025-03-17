@@ -1,0 +1,7 @@
+title = CryptApp
+package.name = CryptApp
+package.domain = priyansh.live
+source.include_exts = py,png,jpg,kv
+requirements = kivy
+android.api = 31
+android.minapi = 21
